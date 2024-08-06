@@ -1,0 +1,9 @@
+.DS_Store
+../../homeTasks/backend-worksample 2/.idea
+.env
+node_modules
+npm-debug.log
+coverage
+!/prisma/migrations/migration_lock.toml
+!/.idea/
+.idea
